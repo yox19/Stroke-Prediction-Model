@@ -66,3 +66,6 @@ This project aligns with my academic interest in:
 jupyter notebook Stroke_Prediction_&_Rehabilitation_Outcomes.ipynb
 ### Acknowledgements
 - Parts of the analysis workflow and code structure were adapted from IBM's "Data Analysis with Python" course. https://www.coursera.org/learn/data-analysis-with-python/home/info
+- Dataset: [Stroke Prediction Dataset on Kaggle](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
+
+

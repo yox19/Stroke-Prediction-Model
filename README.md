@@ -14,9 +14,9 @@ It is part of my research preparation for a Master's in **Neuroscience** with a 
 ---
 
 ## 📊 Dataset
-The dataset contains patient-level clinical features relevant to stroke (e.g., age, hypertension, glucose, BMI, smoking status).  
-Target variable: **Stroke occurrence (yes/no)**.
 
+This project uses the [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) (Kaggle).  
+It contains clinical variables such as age, hypertension, glucose, BMI, and smoking status, with stroke occurrence as the target label.
 ---
 
 ## 🔬 Methods

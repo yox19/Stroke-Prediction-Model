@@ -14,9 +14,9 @@ It is part of my research preparation for a Master's in **Neuroscience** with a 
 ---
 
 ## 📊 Dataset
-
 This project uses the [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) (Kaggle).  
 It contains clinical variables such as age, hypertension, glucose, BMI, and smoking status, with stroke occurrence as the target label.
+
 ---
 
 ## 🔬 Methods
@@ -37,7 +37,7 @@ It contains clinical variables such as age, hypertension, glucose, BMI, and smok
    - Train/test split to avoid overfitting.  
    - Hyperparameter tuning.  
    - Comparison of performance across models.  
-
+NB : code snippets from https://www.coursera.org/learn/data-analysis-with-python/home/info
 ---
 
 ## 📈 Key Results
@@ -64,3 +64,5 @@ This project aligns with my academic interest in:
 ### Run Notebook
 ```bash
 jupyter notebook Stroke_Prediction_&_Rehabilitation_Outcomes.ipynb
+### Acknowledgements
+- Parts of the analysis workflow and code structure were adapted from IBM's "Data Analysis with Python" course. https://www.coursera.org/learn/data-analysis-with-python/home/info

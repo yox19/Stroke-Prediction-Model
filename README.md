@@ -1,6 +1,7 @@
-# 🧠 Stroke Prediction & Rehabilitation Outcomes
+# 🧠 Stroke Prediction Model
 
-This Beginner level project applies **machine learning and data analysis** to stroke prediction and rehabilitation outcomes.  
+This Beginner level project model which predicts the risk of stroke occurrence in the general population. While this is not directly a rehabilitation dataset, it provides a valuable step in the continuum of stroke care: early risk prediction → prevention → fewer severe cases entering rehabilitation. In future work, this approach could be extended to post-stroke rehabilitation outcome prediction using clinical rehab datasets.”
+
 It is part of my research preparation for a Master's in **Neuroscience** with a focus on **neuroplasticity** and **stroke rehabilitation**.  
 
 ---
@@ -9,7 +10,7 @@ It is part of my research preparation for a Master's in **Neuroscience** with a 
 - Explore stroke risk factors and their correlations.
 - Build predictive models for stroke occurrence.
 - Evaluate model performance using clinical metrics.
-- Discuss implications for **stroke rehabilitation** and **neuroplasticity**.
+- Discuss implications for **stroke Prevention** Focus.
 
 ---
 
@@ -41,16 +42,16 @@ NB : code snippets from https://www.coursera.org/learn/data-analysis-with-python
 ---
 
 ## 📈 Key Results
-- Identified top stroke risk predictors (age, hypertension, glucose levels, BMI).  
+- Identified top stroke risk predictors (age and hypertension).  
 - Random Forest achieved higher ROC-AUC compared to baseline models.  
-- Models demonstrated potential for **early intervention planning** in stroke rehabilitation.  
+- Models demonstrated potential for **early intervention planning** in stroke prevention.  
 
 ---
 
 ## 🧩 Relevance to Neuroscience
 This project aligns with my academic interest in:  
 - **Neuroplasticity** → Understanding how stroke recovery depends on modifiable risk factors.  
-- **Rehabilitation** → Applying predictive models to design patient-specific rehabilitation strategies.  
+- **Prevention** → Applying predictive models to design patient-specific intervention strategies.  
 - **Data Science in Neuroscience** → Leveraging machine learning to improve outcomes in neurological disorders.  
 
 ---

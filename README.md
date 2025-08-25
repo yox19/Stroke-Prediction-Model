@@ -1,6 +1,6 @@
 # 🧠 Stroke Prediction & Rehabilitation Outcomes
 
-This project applies **machine learning and data analysis** to stroke prediction and rehabilitation outcomes.  
+This Beginner level project applies **machine learning and data analysis** to stroke prediction and rehabilitation outcomes.  
 It is part of my research preparation for a Master's in **Neuroscience** with a focus on **neuroplasticity** and **stroke rehabilitation**.  
 
 ---
@@ -54,6 +54,10 @@ This project aligns with my academic interest in:
 - **Data Science in Neuroscience** → Leveraging machine learning to improve outcomes in neurological disorders.  
 
 ---
+## Acknowledgements
+- Parts of the analysis workflow and code structure were adapted from IBM's "Data Analysis with Python" course. https://www.coursera.org/learn/data-analysis-with-python/home/info
+- Dataset: [Stroke Prediction Dataset on Kaggle](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
+
 
 ## 🚀 How to Run
 ### Requirements
@@ -64,8 +68,5 @@ This project aligns with my academic interest in:
 ### Run Notebook
 ```bash
 jupyter notebook Stroke_Prediction_&_Rehabilitation_Outcomes.ipynb
-### Acknowledgements
-- Parts of the analysis workflow and code structure were adapted from IBM's "Data Analysis with Python" course. https://www.coursera.org/learn/data-analysis-with-python/home/info
-- Dataset: [Stroke Prediction Dataset on Kaggle](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
 
 

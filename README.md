@@ -2,8 +2,6 @@
 
 This Beginner level project model which predicts the risk of stroke occurrence in the general population. While this is not directly a rehabilitation dataset, it provides a valuable step in the continuum of stroke care: early risk prediction → prevention → fewer severe cases entering rehabilitation. In future work, this approach could be extended to post-stroke rehabilitation outcome prediction using clinical rehab datasets.”
 
-It is part of my research preparation for a Master's in **Neuroscience** with a focus on **neuroplasticity** and **stroke rehabilitation**.  
-
 ---
 
 ## 📌 Objectives

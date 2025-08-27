@@ -66,6 +66,7 @@ This project aligns with my academic interest in:
 
 ### Run Notebook
 ```bash
-jupyter notebook Stroke_Prediction_&_Rehabilitation_Outcomes.ipynb
+jupyter notebook Stroke_Prediction_Model.ipynb
+
 
 

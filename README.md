@@ -64,9 +64,7 @@ This project aligns with my academic interest in:
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn
 
-### Run Notebook
-```bash
-jupyter notebook Stroke_Prediction_Model.ipynb
+
 
 
 
